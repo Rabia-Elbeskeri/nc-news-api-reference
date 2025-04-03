@@ -1,0 +1,10 @@
+
+.home {
+    padding: 2rem;
+    text-align: center;
+}
+
+.home-links a {
+    margin: 0 1rem;
+    color: #0066cc;
+}
